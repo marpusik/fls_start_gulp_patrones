@@ -3,7 +3,10 @@
 	"version": "1.0.0",
 	"description": "Start template with Gulp",
 	"author": "FLS",
+<<<<<<< HEAD
 	"type": "module",
+=======
+>>>>>>> c7240e3d66098417071684b1b2d88c9a7c67e66b
 	"private": true,
 	"license": "GNU General Public License (GPL)",
 	"devDependencies": {
